@@ -1,0 +1,6 @@
+1- Entegras dentro do prazo
+2- Monitoramento do grau de incidentes de transporte
+3- Tempo médio de entrega
+4- Custos de transporte
+5- Custos de armazenagem
+6- Indices de ocorrência
